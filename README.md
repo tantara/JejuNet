@@ -22,8 +22,8 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 
 #### Video Segmentation
 
-- Compressed [DeepLabv3+](https://github.com/tensorflow/models/tree/master/research/deeplab)
-  - Backbone: [MobileNetv2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+- Compressed [DeepLabv3+](https://github.com/tensorflow/models/tree/master/research/deeplab)[1]
+  - Backbone: [MobileNetv2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)[2]
 
 ## Experiments
 
