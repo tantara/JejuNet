@@ -10,7 +10,7 @@ Video Segmentation, Mobile, Tensorflow Lite
 
 Running vision tasks such as object detection, segmentation in real time on mobile devices. Our goal is to implement video segmentation in real time at least 24 fps on Google Pixel 2. We use effiicient deep learning netwrok specialized in mobile/embedded devices and exploit data redundancy between consecutive frames to reduce unaffordable computational cost. Moreover, the network can be optimized with 8-bits quantization provided by tf-lite. More detail in [proposal](https://drive.google.com/open?id=1-HtlV1fkZKYup4Pw0ROzmj5eLMvPvhkE)
 
-![Real-Time Video Segmentation(Credit: Google AI)](https://2.bp.blogspot.com/-ioaFybzPJ04/WpW3bRaMWdI/AAAAAAAACZM/j4st8tHRYvoW4szUF5ql62dnI6SLhUKQACLcBGAs/s400/image1.gif)
+![Real-Time Video Segmentation(Credit: Google AI)](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/real_time_video_segmentation_google_ai.gif)
 
 *Example: Reai-Time Video Segmentation(Credit: Google AI)*
 
