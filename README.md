@@ -47,6 +47,8 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 
 ![DeepLabv3+ on tf-lite](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/deeplabv3_on_tf-lite.png)
 
+*Video Segmentation on Google Pixel 2*
+
 ## References
 
 1. **Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**<br>
