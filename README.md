@@ -43,6 +43,10 @@ Running vision tasks such as object detection, segmentation in real time on mobi
   - [ ] Reduce the number of layers, filters and input size
 - [ ] Dynamic inference path
 
+## Results
+
+![DeepLabv3+ on tf-lite](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/deeplabv3_on_tf-lite.png)
+
 ## References
 
 1. **Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**<br>
