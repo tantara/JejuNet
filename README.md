@@ -22,8 +22,8 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 
 #### Video Segmentation
 
-- Compressed [DeepLabv3+](https://github.com/tensorflow/models/tree/master/research/deeplab)
-  - Backbone: [MobileNetv2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+- Compressed [DeepLabv3+](https://github.com/tensorflow/models/tree/master/research/deeplab)[1]
+  - Backbone: [MobileNetv2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)[2]
 
 ## Experiments
 
@@ -42,6 +42,12 @@ Running vision tasks such as object detection, segmentation in real time on mobi
   - [x] Quantization
   - [ ] Reduce the number of layers, filters and input size
 - [ ] Dynamic inference path
+
+## Results
+
+![DeepLabv3+ on tf-lite](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/deeplabv3_on_tf-lite.png)
+
+*Video Segmentation on Google Pixel 2*
 
 ## References
 
