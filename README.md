@@ -39,7 +39,7 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 - [x] DeepLabv3+ on tf-lite
 - [ ] Use data redundancy between frames
 - Optimization
-  - [ ] Quantization
+  - [x] Quantization
   - [ ] Reduce the number of layers, filters and input size
 - [ ] Dynamic inference path
 
