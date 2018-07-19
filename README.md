@@ -30,7 +30,7 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 * Video Segmentation on Google Pixel 2
 * Datasets
   * PASCAL VOC 2012
-  * Youtube-VOS
+  * Youtube-VOS 2018
 
 ## Plan @Deep Learning Camp Jeju 2018
 
@@ -40,12 +40,12 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 - [ ] Use data redundancy between frames
 - Optimization
   - [x] Quantization
-  - [ ] Reduce the number of layers, filters and input size
+  - [x] Reduce the number of layers, filters and input size
 - [ ] Dynamic inference path
 
 ## Results
 
-![DeepLabv3+ on tf-lite](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/deeplabv3_on_tf-lite.png)
+![DeepLabv3+ on tf-lite](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/20180718-current-results-deeplabv3_on_tf-lite.gif)
 
 *Video Segmentation on Google Pixel 2*
 
@@ -66,4 +66,4 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 
 ## Acknowledgement
 
-This work was partially supported by Deep Learning Jeju Camp and sponsors such as Google, SK Telecom. Thank you for the generous support for TPU and Google Pixel 2.
+This work was partially supported by Deep Learning Jeju Camp and sponsors such as Google, SK Telecom. Thank you for the generous support for TPU and Google Pixel 2, and thank [Hyungsuk](https://github.com/corea) and all the mentees for tensorflow impelmentations and useful discussions.
