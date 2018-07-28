@@ -36,7 +36,7 @@ import java.util.List;
 import org.tensorflow.demo.common.AutoFitTextureView;
 import org.tensorflow.demo.env.ImageUtils;
 import org.tensorflow.demo.env.Logger;
-import org.tensorflow.lite.tflite_final.R; // Explicit import needed for internal Google builds.
+import me.tantara.real_time_segmentation.R; // Explicit import needed for internal Google builds.
 
 public class LegacyCameraConnectionFragment extends Fragment {
   private Camera camera;

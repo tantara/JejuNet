@@ -44,7 +44,7 @@ import java.nio.ByteBuffer;
 import org.tensorflow.demo.common.OverlayView;
 import org.tensorflow.demo.env.ImageUtils;
 import org.tensorflow.demo.env.Logger;
-import org.tensorflow.lite.tflite_final.R; // Explicit import needed for internal Google builds.
+import me.tantara.real_time_segmentation.R; // Explicit import needed for internal Google builds.
 
 public abstract class CameraActivity extends Activity
         implements OnImageAvailableListener, Camera.PreviewCallback {

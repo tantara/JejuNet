@@ -61,7 +61,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.tensorflow.demo.common.AutoFitTextureView;
 import org.tensorflow.demo.env.Logger;
-import org.tensorflow.lite.tflite_final.R; // Explicit import needed for internal Google builds.
+import me.tantara.real_time_segmentation.R; // Explicit import needed for internal Google builds.
 
 public class CameraConnectionFragment extends Fragment {
   private static final Logger LOGGER = new Logger();

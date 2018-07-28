@@ -37,7 +37,7 @@ import org.tensorflow.demo.env.Logger;
 import org.tensorflow.demo.segmentation.Segmentor;
 import org.tensorflow.demo.segmentation.TFLiteObjectSegmentationAPIModel;
 import org.tensorflow.demo.tracking.OverlayTracker;
-import org.tensorflow.lite.tflite_final.R;
+import me.tantara.real_time_segmentation.R;
 
 import java.io.IOException;
 import java.util.Vector;
