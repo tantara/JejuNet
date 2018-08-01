@@ -43,6 +43,8 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 
 ## Results
 
+More results here [bit.ly/jejunet-output](bit.ly/jejunet-output)
+
 #### Demo
 
 ![DeepLabv3+ on tf-lite](https://raw.githubusercontent.com/tantara/JejuNet/master/docs/20180726-current-results-deeplabv3_on_tf-lite.gif)
