@@ -6,6 +6,12 @@ Real-Time Video Segmentation on Mobile Devices
 
 Video Segmentation, Mobile, Tensorflow Lite
 
+##### Tutorials
+
+* Benchmarks: Tensorflow Lite on GPU
+  * A Post on Medium [Link](https://medium.com/@tantara/benchmarks-tensorflow-lite-on-gpu-769bff8afa6d)
+  * Detail results [Link](https://www.dropbox.com/sh/6mtyfwhfasvfaun/AADG52s-5Q4aCjC8BmL1cA4xa?dl=0)
+
 ## Introduction
 
 Running vision tasks such as object detection, segmentation in real time on mobile devices. Our goal is to implement video segmentation in real time at least 24 fps on Google Pixel 2. We use effiicient deep learning netwrok specialized in mobile/embedded devices and exploit data redundancy between consecutive frames to reduce unaffordable computational cost. Moreover, the network can be optimized with 8-bits quantization provided by tf-lite.
