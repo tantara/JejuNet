@@ -49,7 +49,7 @@ Running vision tasks such as object detection, segmentation in real time on mobi
 
 ## Results
 
-More results here [bit.ly/jejunet-output](bit.ly/jejunet-output)
+More results here [bit.ly/jejunet-output](https://bit.ly/jejunet-output)
 
 #### Demo
 
